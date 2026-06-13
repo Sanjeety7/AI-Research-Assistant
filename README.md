@@ -59,28 +59,36 @@ Built entirely from scratch with **Python (FastAPI)** backend and **vanilla HTML
 ### Welcome Screen
 The assistant greets you with smart research prompt suggestions and an intuitive sidebar for document management.
 
-![Welcome Screen](screenshots/screen_06.png)
+![Welcome Screen]
+<img width="1366" height="682" alt="AI main dash" src="https://github.com/user-attachments/assets/bdb4e21e-1c0c-481e-9df9-b075f0abe6c4" />
+
 
 ---
 
 ### Document Analysis — RAG in Action
 After uploading a PDF, ask any question. The system retrieves relevant chunks from Pinecone and generates a grounded answer with a **HIGH confidence rating**.
 
-![RAG Response](screenshots/screen_01.png)
+![RAG Response]
+<img width="970" height="553" alt="image" src="https://github.com/user-attachments/assets/f768df4f-2b54-48fb-9fd5-299f78cc8a17" />
+
 
 ---
 
 ### Source Cards — Full Transparency
 Every response surfaces the exact document chunks that were used, complete with **similarity scores** (0.74–0.75).
 
-![Source Cards](screenshots/screen_03.png)
+![Source Cards]
+<img width="998" height="569" alt="image" src="https://github.com/user-attachments/assets/a1aec5c1-c546-48a6-a420-16d1794971b5" />
+
 
 ---
 
 ### Session Statistics
 Live tracking of token usage and estimated API cost per session.
 
-![Session Stats](screenshots/screen_05.png)
+![Session Stats]
+<img width="292" height="535" alt="image" src="https://github.com/user-attachments/assets/e437452e-8265-4020-818d-af8fbe465645" />
+
 
 ---
 
